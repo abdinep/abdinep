@@ -11,8 +11,8 @@ abdinep/abdinep is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 **Connect with me:**
-- [LinkedIn](#www.linkedin.com/in/abdin-e-p-3901a2206)
-- [Leetcode](#)
+- [LinkedIn](#www.linkedin.com/in/abdin-ep)
+##- [Leetcode](#)
 - [Email](#abdineppanambra@gmail.com)
 
 ## Languages and Tools
