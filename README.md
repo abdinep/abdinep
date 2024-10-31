@@ -11,9 +11,9 @@ abdinep/abdinep is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 **Connect with me:**
-- [LinkedIn](#www.linkedin.com/in/abdin-ep)
+- [LinkedIn](www.linkedin.com/in/abdin-ep)
 - [Leetcode](#)
-- [Email](#abdineppanambra@gmail.com)
+- [Email](abdineppanambra@gmail.com)
 
 ## Languages and Tools
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
