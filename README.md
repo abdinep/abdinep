@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 **Connect with me:**
 - [LinkedIn](#www.linkedin.com/in/abdin-ep)
-##- [Leetcode](#)
+- [Leetcode](#)
 - [Email](#abdineppanambra@gmail.com)
 
 ## Languages and Tools
